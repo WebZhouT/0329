@@ -1,0 +1,32 @@
+{"games": [
+    {
+        "shieldLevel": 1,
+        "myKill": 0,
+        "squadLegend1": "Ash",
+        "squadLegend2": "Horizon",
+        "squadDamage": 0,
+        "place": 20,
+        "myLegend": "Octane",
+        "weapon2": "R99",
+        "numberOfDeath": 1,
+        "map": "World's Edge",
+        "myDamage": 0,
+        "squadKill": 0,
+        "weapon1": "Flatline"
+    },
+    {
+        "shieldLevel": 3,
+        "myKill": 3,
+        "squadLegend1": "Bloodhound",
+        "squadLegend2": "Lifeline",
+        "squadDamage": 3189,
+        "place": 9,
+        "myLegend": "Wraith",
+        "weapon2": "Nemesis",
+        "numberOfDeath": 1,
+        "map": "Broken Moon",
+        "myDamage": 1233,
+        "squadKill": 5,
+        "weapon1": "R-301"
+    }
+]}
